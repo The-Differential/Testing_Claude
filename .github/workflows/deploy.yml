@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [claude/deepgram-nova3-test-page-T8HKy, master]
+    branches: [claude/medical-app-landing-page-011CUNuWXHJTL3V4F7AxvomU]
   workflow_dispatch:
 
 permissions:
